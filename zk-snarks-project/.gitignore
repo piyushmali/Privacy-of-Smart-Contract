@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Hardhat artifacts
+artifacts/
+cache/
+
+# ZoKrates output
+zokrates/out/
+zokrates/proving.key
+zokrates/verification.key
+zokrates/proof.json
+
+# Build files
+build/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage directory
+coverage/
+
+# IDE files
+.vscode/
+.idea/
+
+# npm package lock file (optional)
+package-lock.json
