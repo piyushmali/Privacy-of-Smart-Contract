@@ -1,0 +1,42 @@
+# Ignore node modules
+node_modules/
+
+# Ignore Hardhat files
+artifacts/
+cache/
+
+# Ignore environment variables
+.env
+
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore test outputs
+test-results/
+
+# Ignore compiled contract JSON files
+typechain/
+
+# Ignore npm log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Ignore Mac OS specific files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore Hardhat's generated file
+coverage/
