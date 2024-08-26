@@ -64,6 +64,12 @@ To use any of the frameworks, follow the instructions in their respective direct
    ```bash
    cd Privacy-of-Smart-Contract/SecureSmartContractTOD
    ```
+      ```bash
+   cd Privacy-of-Smart-Contract/ZKProofPrivacy
+   ```
+      ```bash
+   cd Privacy-of-Smart-Contract/zk-snarks-project
+   ```
 3. **Follow the setup instructions** provided in the README or documentation files within each directory.
 
 ## Contribution
